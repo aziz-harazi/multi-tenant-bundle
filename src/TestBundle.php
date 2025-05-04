@@ -1,6 +1,6 @@
 <?php
 
-namespace AzizHikari\MultiTenantBundle;
+namespace AzizHarazi\MultiTenantBundle;
 
 class TestBundle
 {

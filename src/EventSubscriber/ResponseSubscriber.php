@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace AzizHikari\MultiTenantBundle\EventSubscriber;
+namespace AzizHarazi\MultiTenantBundle\EventSubscriber;
 
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;
 use Symfony\Component\HttpKernel\Event\ResponseEvent;
