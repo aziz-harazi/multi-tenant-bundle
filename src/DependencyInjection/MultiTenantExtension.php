@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace AzizHikari\MultiTenantBundle\DependencyInjection;
+namespace AzizHarazi\MultiTenantBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

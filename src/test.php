@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace AzizHikari\MultiTenantBundle;
+namespace AzizHarazi\MultiTenantBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

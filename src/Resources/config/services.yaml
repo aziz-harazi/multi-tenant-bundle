@@ -1,5 +1,5 @@
 services:
-  azizhikari_multi_tenant.response_subscriber:
-    class:  AzizHikari\MultiTenantBundle\EventSubscriber\ResponseSubscriber
+  multi_tenant.response_subscriber:
+    class:  AzizHarazi\MultiTenantBundle\EventSubscriber\ResponseSubscriber
     tags:
       - { name: kernel.event_subscriber }
